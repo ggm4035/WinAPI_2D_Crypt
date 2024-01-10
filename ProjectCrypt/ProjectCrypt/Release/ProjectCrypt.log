@@ -1,0 +1,112 @@
+﻿빌드 시작: 2023-02-03 오전 11:42:32
+     1>2 노드의 "C:\Users\joo\Documents\Visual Studio 2015\Projects\ProjectCrypt\ProjectCrypt\ProjectCrypt.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Release\ProjectCrypt.pch" /Fo"Release\\" /Fd"Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Armor.cpp Bat.cpp Beat.cpp BeatMgr.cpp BitmapMgr.cpp Bomb.cpp Boss.cpp BossStage.cpp Chest.cpp Dragon.cpp Ending.cpp Food.cpp IceSlime.cpp Item.cpp ItemTorch.cpp Key.cpp KeyMgr.cpp Lobby.cpp Logo.cpp MainGame.cpp MainMenu.cpp Money.cpp Monster.cpp MyBitmap.cpp MyEdit.cpp Obj.cpp ObjMgr.cpp Player.cpp ProjectCrypt.cpp Scene.cpp SceneMgr.cpp ScrollMgr.cpp GreenSlime.cpp ShopKeeper.cpp Shovel.cpp Skeleton.cpp SoundMgr.cpp Stage1.cpp Tile.cpp TileMgr.cpp TimeMgr.cpp Torch.cpp Wall.cpp Weapon.cpp Zombie.cpp
+         Armor.cpp
+         Bat.cpp
+         Beat.cpp
+         BeatMgr.cpp
+         BitmapMgr.cpp
+         Bomb.cpp
+         Boss.cpp
+         BossStage.cpp
+         Chest.cpp
+         Dragon.cpp
+         Ending.cpp
+         Food.cpp
+         IceSlime.cpp
+         Item.cpp
+         ItemTorch.cpp
+         Key.cpp
+         KeyMgr.cpp
+         Lobby.cpp
+         Logo.cpp
+         MainGame.cpp
+         컴파일하고 있습니다...
+         MainMenu.cpp
+         Money.cpp
+         Monster.cpp
+         MyBitmap.cpp
+         MyEdit.cpp
+         Obj.cpp
+         ObjMgr.cpp
+         Player.cpp
+         ProjectCrypt.cpp
+         Scene.cpp
+         SceneMgr.cpp
+         ScrollMgr.cpp
+         GreenSlime.cpp
+         ShopKeeper.cpp
+     1>ShopKeeper.cpp(117): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     1>ShopKeeper.cpp(122): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+         Shovel.cpp
+         Skeleton.cpp
+         SoundMgr.cpp
+         Stage1.cpp
+         Tile.cpp
+         TileMgr.cpp
+         컴파일하고 있습니다...
+         TimeMgr.cpp
+         Torch.cpp
+         Wall.cpp
+         Weapon.cpp
+         Zombie.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\joo\Documents\Visual Studio 2015\Projects\ProjectCrypt\Release\ProjectCrypt.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\joo\Documents\Visual Studio 2015\Projects\ProjectCrypt\Release\ProjectCrypt.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\joo\Documents\Visual Studio 2015\Projects\ProjectCrypt\Release\ProjectCrypt.lib" /MACHINE:X86 /SAFESEH Release\ProjectCrypt.res
+         Release\Armor.obj
+         Release\Bat.obj
+         Release\Beat.obj
+         Release\BeatMgr.obj
+         Release\BitmapMgr.obj
+         Release\Bomb.obj
+         Release\Boss.obj
+         Release\BossStage.obj
+         Release\Chest.obj
+         Release\Dragon.obj
+         Release\Ending.obj
+         Release\Food.obj
+         Release\IceSlime.obj
+         Release\Item.obj
+         Release\ItemTorch.obj
+         Release\Key.obj
+         Release\KeyMgr.obj
+         Release\Lobby.obj
+         Release\Logo.obj
+         Release\MainGame.obj
+         Release\MainMenu.obj
+         Release\Money.obj
+         Release\Monster.obj
+         Release\MyBitmap.obj
+         Release\MyEdit.obj
+         Release\Obj.obj
+         Release\ObjMgr.obj
+         Release\Player.obj
+         Release\ProjectCrypt.obj
+         Release\Scene.obj
+         Release\SceneMgr.obj
+         Release\ScrollMgr.obj
+         Release\GreenSlime.obj
+         Release\ShopKeeper.obj
+         Release\Shovel.obj
+         Release\Skeleton.obj
+         Release\SoundMgr.obj
+         Release\Stage1.obj
+         Release\stdafx.obj
+         Release\Tile.obj
+         Release\TileMgr.obj
+         Release\TimeMgr.obj
+         Release\Torch.obj
+         Release\Wall.obj
+         Release\Weapon.obj
+         Release\Zombie.obj
+         코드를 생성하고 있습니다.
+         397 of 1194 functions (33.2%) were compiled, the rest were copied from previous compilation.
+           157 functions were new in current compilation
+           41 functions had inline decision re-evaluated but remain unchanged
+         코드를 생성했습니다.
+         ProjectCrypt.vcxproj -> C:\Users\joo\Documents\Visual Studio 2015\Projects\ProjectCrypt\Release\ProjectCrypt.exe
+     1>"C:\Users\joo\Documents\Visual Studio 2015\Projects\ProjectCrypt\ProjectCrypt\ProjectCrypt.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:04.07
